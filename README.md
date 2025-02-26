@@ -13,7 +13,7 @@ This project contains a script that monitors the performance of KVM virtual mach
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/monitoring-vm.git
+   git clone https://github.com/furyxdev/monitoring-vm.git
    cd monitoring-vm
    ```
 2. Install the required dependencies:
